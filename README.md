@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **kudiyayash31@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/uc?export=view&id=1i3YL9fSsdq3z9OvY4tS-XCuYQrPRTOuP](https://drive.google.com/uc?export=view&id=1i3YL9fSsdq3z9OvY4tS-XCuYQrPRTOuP)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yashu1403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashu1403" height="30" width="40" /></a>
